@@ -116,13 +116,13 @@ For the NIGHT peak, the reasons for cancellation by customers across all Vehicle
 <img width="861" height="624" alt="image" src="https://github.com/user-attachments/assets/1e462987-b4f4-46a6-aa77-9eb98a2a7d06" />
 <img width="858" height="621" alt="image" src="https://github.com/user-attachments/assets/979e9a35-8415-4d44-84d5-c2a41657524e" />
 
-Across both DAY and NIGHT peaks, **Customer related issue** and **More than permitted people in there** were the most common reason for cancellation by driver across all Vehicle Types.
+Across both DAY and NIGHT peaks, **Customer related issue** and **More than permitted people in there** were the most common reasons for cancellation by driver across all Vehicle Types.
 
 --- 
 
 <a id="future-considerations"></a>
 **Future Considerations**
 - Perform statistical analysis to determine the relationship between Vehicle Type and Booking Status.
-- Run a linear regression to determine how the independent variables affect the number of mosquitoes caught. 
+- Run a linear regression to determine how the independent variables affect the Booking Value. 
 
 Thanks for reading! 🚗
